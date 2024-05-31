@@ -21,6 +21,6 @@ Our project addresses this issue by integrating an analysis of waveforms, freque
 
 3) Pre-processing_Merge - merges the outputs of 1 & 2 above into one dataframe then we label the data. Or we ask LLM to help us label? 
 
-4) GNN Model Training - takes the output of #3 as inputs and performs GNN model training. Outputs the best model. 
+4) 1D Convolutional Neural Network Model Training - takes the output of #3 as inputs and performs 1D Convolutional Neural Network Model training. Outputs the best model. 
 
 5) Classify - use the best model from #4 for inference & evaluation on test data.
