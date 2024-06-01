@@ -1,0 +1,14 @@
+2024-06-01 15:52:03,178 - ERROR - Error occurred: [Errno 2] No such file or directory: 'a'
+2024-06-01 15:52:22,323 - ERROR - Error occurred: ffmpeg was not found but is required to load audio files from filename
+2024-06-01 15:53:38,930 - ERROR - Error occurred: ffmpeg was not found but is required to load audio files from filename
+2024-06-01 17:05:47,986 - ERROR - Error occurred: ffmpeg was not found but is required to load audio files from filename
+2024-06-01 17:06:12,776 - ERROR - Error occurred: ffmpeg was not found but is required to load audio files from filename
+2024-06-01 17:20:34,398 - ERROR - Error occurred: ffmpeg was not found but is required to load audio files from filename
+2024-06-01 18:20:23,025 - ERROR - Error occurred: ffmpeg was not found but is required to load audio files from filename
+2024-06-01 18:21:32,184 - ERROR - Error occurred: ffmpeg was not found but is required to load audio files from filename
+2024-06-01 18:21:48,561 - ERROR - Error occurred: ffmpeg was not found but is required to load audio files from filename
+2024-06-01 18:22:52,877 - ERROR - Error occurred: ffmpeg was not found but is required to load audio files from filename
+2024-06-01 18:52:07,008 - ERROR - Error occurred: ffmpeg was not found but is required to load audio files from filename
+2024-06-01 18:52:40,815 - ERROR - Error occurred: ffmpeg was not found but is required to load audio files from filename
+2024-06-01 18:54:00,501 - ERROR - Error occurred: ffmpeg was not found but is required to load audio files from filename
+2024-06-01 20:59:28,247 - INFO - Transcript: {'text': ' Kids are talking by the door.'}
