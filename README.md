@@ -24,3 +24,5 @@ Our project addresses this issue by integrating an analysis of waveforms, freque
 4) Agent_Audio_Signal_Classifier - classifies which agent should be assigned to caller based on audio signal
 
 5) Classify - combines solutions from 1-4 to classify sentiment of customer and to which agent should the customer be assigned to
+
+6) Evaluation - Notebook that contains all evaluations done on new unseen recordings, including Ablation study

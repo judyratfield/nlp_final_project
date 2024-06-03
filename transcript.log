@@ -1342,3 +1342,146 @@
 2024-06-02 23:02:16,335 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday. I'm unhappy with your service. I actually have a problem with the way you handled my request. This is unacceptable. I would like to speak with your supervisor. Fuck you! I hate you for treating me like shit!"}
 2024-06-02 23:02:38,197 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday. I'm unhappy with your service. I actually have a problem with the way you handled my request. This is unacceptable. I would like to speak with your supervisor. Fuck you! I hate you for treating me like shit!"}
 2024-06-02 23:03:17,228 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 13:30:46,912 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 13:47:47,966 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday. I'm unhappy with your service. I actually have a problem with the way you handled my request. This is unacceptable. I would like to speak with your supervisor. Fuck you! I hate you for treating me like shit!"}
+2024-06-03 13:49:26,201 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday. I'm unhappy with your service. I actually have a problem with the way you handled my request. This is unacceptable. I would like to speak with your supervisor. Fuck you! I hate you for treating me like shit!"}
+2024-06-03 13:52:28,336 - INFO - Transcript: {'text': ' Dogs are sitting by the door.'}
+2024-06-03 13:54:10,315 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-03 14:06:28,191 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday. I'm unhappy with your service. I actually have a problem with the way you handled my request. This is unacceptable. I would like to speak with your supervisor. Fuck you! I hate you for treating me like shit!"}
+2024-06-03 14:08:12,584 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-03 21:31:50,206 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-03 21:31:55,771 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 21:32:53,551 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-03 21:32:56,686 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 21:35:29,708 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday. I'm unhappy with your service. I actually have a problem with the way you handled my request. This is unacceptable. I would like to speak with your supervisor. Fuck you! I hate you for treating me like shit!"}
+2024-06-03 21:35:49,177 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday. I'm unhappy with your service. I actually have a problem with the way you handled my request. This is unacceptable. I would like to speak with your supervisor. Fuck you! I hate you for treating me like shit!"}
+2024-06-03 21:37:42,932 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-03 21:37:44,903 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 21:37:53,330 - INFO - PyTorch version 2.3.0 available.
+2024-06-03 21:37:53,338 - INFO - TensorFlow version 2.16.1 available.
+2024-06-03 21:39:28,359 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday. I'm unhappy with your service. I actually have a problem with the way you handled my request. This is unacceptable. I would like to speak with your supervisor. Fuck you! I hate you for treating me like shit!"}
+2024-06-03 21:39:49,500 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday. I'm unhappy with your service. I actually have a problem with the way you handled my request. This is unacceptable. I would like to speak with your supervisor. Fuck you! I hate you for treating me like shit!"}
+2024-06-03 21:40:03,705 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-03 21:40:05,717 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 21:40:13,731 - INFO - PyTorch version 2.3.0 available.
+2024-06-03 21:40:13,737 - INFO - TensorFlow version 2.16.1 available.
+2024-06-03 22:36:11,100 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday. I'm unhappy with your service. I actually have a problem with the way you handled my request. This is unacceptable. I would like to speak with your supervisor. Fuck you! I hate you for treating me like shit!"}
+2024-06-03 22:36:34,796 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday. I'm unhappy with your service. I actually have a problem with the way you handled my request. This is unacceptable. I would like to speak with your supervisor. Fuck you! I hate you for treating me like shit!"}
+2024-06-03 22:36:50,392 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-03 22:36:52,360 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:37:00,947 - INFO - PyTorch version 2.3.0 available.
+2024-06-03 22:37:00,955 - INFO - TensorFlow version 2.16.1 available.
+2024-06-03 22:45:04,648 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-03 22:45:11,541 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:47:03,514 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday. I'm unhappy with your service. I actually have a problem with the way you handled my request. This is unacceptable. I would like to speak with your supervisor. Fuck you! I hate you for treating me like shit!"}
+2024-06-03 22:47:27,510 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday. I'm unhappy with your service. I actually have a problem with the way you handled my request. This is unacceptable. I would like to speak with your supervisor. Fuck you! I hate you for treating me like shit!"}
+2024-06-03 22:47:42,567 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-03 22:47:44,528 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:47:51,634 - INFO - PyTorch version 2.3.0 available.
+2024-06-03 22:47:51,640 - INFO - TensorFlow version 2.16.1 available.
+2024-06-03 22:49:41,664 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-03 22:49:43,431 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:49:57,071 - INFO - Transcript: {'text': ' Are there any promotions on upgrades available right now?'}
+2024-06-03 22:49:58,669 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:50:12,341 - INFO - Transcript: {'text': ' Can you explain the charges on my latest build?'}
+2024-06-03 22:50:13,989 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:50:28,258 - INFO - Transcript: {'text': ' What information do you need to process my move?'}
+2024-06-03 22:50:30,431 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:50:32,284 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001B54F64EB60> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-06-03 22:50:44,015 - INFO - Transcript: {'text': ' How do I speak to about your poor service quality?'}
+2024-06-03 22:50:45,733 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:50:47,179 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001B54F9ABF60> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-06-03 22:50:58,281 - INFO - Transcript: {'text': ' Can you help me understand my service features?'}
+2024-06-03 22:50:59,988 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:51:14,032 - INFO - Transcript: {'text': ' Can I switch to a different daughter plan in mid-month?'}
+2024-06-03 22:51:15,571 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:51:28,502 - INFO - Transcript: {'text': ' Why is my bill higher this month compared to last month?'}
+2024-06-03 22:51:30,074 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:51:43,152 - INFO - Transcript: {'text': ' Will my service be interrupted during relocation?'}
+2024-06-03 22:51:44,889 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:51:57,939 - INFO - Transcript: {'text': ' My issue has not been resolved. What are the next steps?'}
+2024-06-03 22:51:59,574 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:52:12,656 - INFO - Transcript: {'text': ' My Wi-Fi is not working.'}
+2024-06-03 22:52:14,378 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:52:26,385 - INFO - Transcript: {'text': ' How do I change my mobile plan?'}
+2024-06-03 22:52:28,016 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:52:40,083 - INFO - Transcript: {'text': " I haven't received my bill for the month yet."}
+2024-06-03 22:52:41,894 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:52:57,700 - INFO - Transcript: {'text': ' How long will it take for my Wi-Fi to come back up when I move houses?'}
+2024-06-03 22:52:59,418 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:53:13,450 - INFO - Transcript: {'text': ' Resolve this immediately. My Wi-Fi still has not been working after three days.'}
+2024-06-03 22:53:15,198 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:53:27,241 - INFO - Transcript: {'text': ' How do I change my Wi-Fi password?'}
+2024-06-03 22:53:29,007 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:53:41,404 - INFO - Transcript: {'text': ' Can I switch to the 16-gig plan?'}
+2024-06-03 22:53:43,152 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:53:55,322 - INFO - Transcript: {'text': ' Can you break down this invoice from January?'}
+2024-06-03 22:53:56,905 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:54:11,426 - INFO - Transcript: {'text': ' Hi, does my wife I connect on the same day that I move?'}
+2024-06-03 22:54:13,152 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:54:27,168 - INFO - Transcript: {'text': " I topped up my data and it hasn't showed up on my account yet."}
+2024-06-03 22:54:29,301 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:54:46,574 - INFO - Transcript: {'text': ' My connection seems to be very slow today.'}
+2024-06-03 22:54:48,804 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:55:04,823 - INFO - Transcript: {'text': " What's the next available plan after the one I have now?"}
+2024-06-03 22:55:06,604 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:55:22,128 - INFO - Transcript: {'text': ' I seem to have an increase in my bill this month.'}
+2024-06-03 22:55:24,143 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:55:41,063 - INFO - Transcript: {'text': " I'm moving to a new apartment but they say that Optus is not available as a provider."}
+2024-06-03 22:55:42,739 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:55:54,879 - INFO - Transcript: {'text': " I can't seem to connect to the internet."}
+2024-06-03 22:55:56,741 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:56:09,919 - INFO - Transcript: {'text': " I'm having trouble logging in."}
+2024-06-03 22:56:11,737 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:56:23,628 - INFO - Transcript: {'text': ' I need help setting up my account.'}
+2024-06-03 22:56:25,262 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:56:36,893 - INFO - Transcript: {'text': ' I forgot my username and password.'}
+2024-06-03 22:56:38,535 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:56:51,065 - INFO - Transcript: {'text': ' I want to update my home address.'}
+2024-06-03 22:56:52,699 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:57:06,321 - INFO - Transcript: {'text': ' Can you help me change my email address?'}
+2024-06-03 22:57:07,981 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:57:22,106 - INFO - Transcript: {'text': ' Hi, I would like to dispute a charge made on my account.'}
+2024-06-03 22:57:23,703 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:57:36,619 - INFO - Transcript: {'text': " I haven't received my bill for the month of April."}
+2024-06-03 22:57:38,193 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:57:51,184 - INFO - Transcript: {'text': ' There is something wrong with my invoice statement.'}
+2024-06-03 22:57:52,794 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:58:08,856 - INFO - Transcript: {'text': ' How much do I have to pay monthly for my plan? I forgot.'}
+2024-06-03 22:58:10,720 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:58:28,741 - INFO - Transcript: {'text': ' I would like to pay monthly instead of yearly. Can you do that?'}
+2024-06-03 22:58:30,528 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:58:50,189 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday."}
+2024-06-03 22:58:52,266 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:59:14,325 - INFO - Transcript: {'text': " I'm unhappy with your service."}
+2024-06-03 22:59:16,105 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:59:36,553 - INFO - Transcript: {'text': ' I actually have a problem with the way you handled my request.'}
+2024-06-03 22:59:38,393 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 22:59:51,222 - INFO - Transcript: {'text': ' This is unacceptable.'}
+2024-06-03 22:59:53,204 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 23:00:16,157 - INFO - Transcript: {'text': ' I would like to speak with your supervisor.'}
+2024-06-03 23:00:17,790 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 23:00:32,561 - INFO - Transcript: {'text': ' Fuck you!'}
+2024-06-03 23:00:34,140 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 23:00:51,256 - INFO - Transcript: {'text': ' I hate you for treating me like shit!'}
+2024-06-03 23:00:52,898 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 23:01:08,513 - INFO - Transcript: {'text': " I'm interested in getting a phone plan."}
+2024-06-03 23:01:10,211 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 23:01:23,143 - INFO - Transcript: {'text': " I'd like to buy a new iPhone."}
+2024-06-03 23:01:24,777 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 23:01:39,586 - INFO - Transcript: {'text': ' What are my options for Samsung Galaxy phone accessories?'}
+2024-06-03 23:01:41,286 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 23:01:55,873 - INFO - Transcript: {'text': ' Do you offer a discount for students?'}
+2024-06-03 23:01:57,628 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 23:02:12,118 - INFO - Transcript: {'text': ' How much does your para-bank cost?'}
+2024-06-03 23:02:13,971 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 23:02:27,894 - INFO - Transcript: {'text': " My iPhone isn't working properly."}
+2024-06-03 23:02:29,530 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 23:02:45,168 - INFO - Transcript: {'text': " I'm experiencing an issue with my mobile data."}
+2024-06-03 23:02:46,931 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 23:02:59,808 - INFO - Transcript: {'text': " I'm having trouble with sending messages to my friends."}
+2024-06-03 23:03:01,796 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 23:03:17,409 - INFO - Transcript: {'text': " I can't receive calls."}
+2024-06-03 23:03:19,212 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-03 23:03:41,264 - INFO - Transcript: {'text': " There's an error message saying, fail to connect when I played mobile latency."}
+2024-06-03 23:03:43,282 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
