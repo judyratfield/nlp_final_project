@@ -25,4 +25,6 @@ Our project addresses this issue by integrating an analysis of waveforms, freque
 
 5) Classify - combines solutions from 1-4 to classify sentiment of customer and to which agent should the customer be assigned to
 
-6) Evaluation - Notebook that contains all evaluations done on new unseen recordings, including Ablation study
+6) Neural Network - Contains the Dataset Preparation, Design, Training & Evaluation of the proposed Neural Network model that analyzes both text context and audio signals 
+
+7) Evaluation - Notebook that contains evaluations done on new unseen recordings, including Ablation study

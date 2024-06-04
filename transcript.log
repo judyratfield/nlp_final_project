@@ -1485,3 +1485,689 @@
 2024-06-03 23:03:19,212 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
 2024-06-03 23:03:41,264 - INFO - Transcript: {'text': " There's an error message saying, fail to connect when I played mobile latency."}
 2024-06-03 23:03:43,282 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:18:51,668 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 15:18:55,531 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:19:08,207 - INFO - Transcript: {'text': ' Are there any promotions on upgrades available right now?'}
+2024-06-04 15:19:09,866 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:19:24,355 - INFO - Transcript: {'text': ' Can you explain the charges on my latest build?'}
+2024-06-04 15:19:27,315 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:20:15,099 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 15:20:16,783 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:20:28,271 - INFO - Transcript: {'text': ' Are there any promotions on upgrades available right now?'}
+2024-06-04 15:20:30,004 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:20:42,553 - INFO - Transcript: {'text': ' Can you explain the charges on my latest build?'}
+2024-06-04 15:20:44,126 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:21:06,589 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 15:21:08,642 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:21:52,267 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 15:21:53,896 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:23:05,346 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 15:23:07,037 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:23:18,714 - INFO - Transcript: {'text': ' Are there any promotions on upgrades available right now?'}
+2024-06-04 15:23:20,292 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:23:31,431 - INFO - Transcript: {'text': ' Can you explain the charges on my latest build?'}
+2024-06-04 15:23:33,065 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:24:13,836 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 15:24:16,679 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:24:54,388 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 15:24:56,046 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:25:30,771 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 15:25:32,358 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:25:33,781 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x00000255B1E867A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-06-04 15:26:52,947 - ERROR - Error occurred: [Errno 2] No such file or directory: 'odi_recordings/complaints_converted.wav'
+2024-06-04 15:31:58,493 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 15:32:16,483 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 15:32:32,624 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 15:32:35,091 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:32:43,256 - INFO - PyTorch version 2.3.0 available.
+2024-06-04 15:32:43,263 - INFO - TensorFlow version 2.16.1 available.
+2024-06-04 15:33:07,624 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 15:33:09,271 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:33:20,433 - INFO - Transcript: {'text': ' Are there any promotions on upgrades available right now?'}
+2024-06-04 15:33:22,133 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:33:36,088 - INFO - Transcript: {'text': ' Can you explain the charges on my latest build?'}
+2024-06-04 15:33:37,781 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:34:17,929 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 15:34:19,534 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:34:30,888 - INFO - Transcript: {'text': ' Are there any promotions on upgrades available right now?'}
+2024-06-04 15:34:32,589 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:34:34,046 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000016FD23AB2E0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-06-04 15:34:44,559 - INFO - Transcript: {'text': ' Can you explain the charges on my latest build?'}
+2024-06-04 15:34:46,424 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:34:48,053 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000016FD24725C0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-06-04 15:34:58,580 - INFO - Transcript: {'text': ' What information do you need to process my move?'}
+2024-06-04 15:35:00,309 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:35:11,856 - INFO - Transcript: {'text': ' How do I speak to about your poor service quality?'}
+2024-06-04 15:35:13,377 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:35:26,574 - INFO - Transcript: {'text': ' Can you help me understand my service features?'}
+2024-06-04 15:35:28,246 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:35:41,441 - INFO - Transcript: {'text': ' Can I switch to a different daughter plan in mid-month?'}
+2024-06-04 15:35:43,028 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:35:55,476 - INFO - Transcript: {'text': ' Why is my bill higher this month compared to last month?'}
+2024-06-04 15:35:57,070 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:36:09,191 - INFO - Transcript: {'text': ' Will my service be interrupted during relocation?'}
+2024-06-04 15:36:10,979 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:36:26,626 - INFO - Transcript: {'text': ' My issue has not been resolved. What are the next steps?'}
+2024-06-04 15:36:29,042 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:46:29,330 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 15:46:41,450 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 15:46:44,777 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 15:46:45,272 - INFO - PyTorch version 2.3.0 available.
+2024-06-04 15:46:45,279 - INFO - TensorFlow version 2.16.1 available.
+2024-06-04 15:46:57,605 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 15:47:51,750 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 15:48:04,484 - INFO - Transcript: {'text': ' Are there any promotions on upgrades available right now?'}
+2024-06-04 15:48:16,769 - INFO - Transcript: {'text': ' Can you explain the charges on my latest build?'}
+2024-06-04 15:48:29,550 - INFO - Transcript: {'text': ' What information do you need to process my move?'}
+2024-06-04 15:48:42,568 - INFO - Transcript: {'text': ' How do I speak to about your poor service quality?'}
+2024-06-04 15:48:55,973 - INFO - Transcript: {'text': ' Can you help me understand my service features?'}
+2024-06-04 15:49:10,170 - INFO - Transcript: {'text': ' Can I switch to a different daughter plan in mid-month?'}
+2024-06-04 15:49:29,203 - INFO - Transcript: {'text': ' Why is my bill higher this month compared to last month?'}
+2024-06-04 15:49:43,697 - INFO - Transcript: {'text': ' Will my service be interrupted during relocation?'}
+2024-06-04 15:49:58,192 - INFO - Transcript: {'text': ' My issue has not been resolved. What are the next steps?'}
+2024-06-04 15:50:11,911 - INFO - Transcript: {'text': ' My Wi-Fi is not working.'}
+2024-06-04 15:50:25,557 - INFO - Transcript: {'text': ' How do I change my mobile plan?'}
+2024-06-04 15:50:38,677 - INFO - Transcript: {'text': " I haven't received my bill for the month yet."}
+2024-06-04 15:50:53,780 - INFO - Transcript: {'text': ' How long will it take for my Wi-Fi to come back up when I move houses?'}
+2024-06-04 15:51:08,454 - INFO - Transcript: {'text': ' Resolve this immediately. My Wi-Fi still has not been working after three days.'}
+2024-06-04 15:51:21,869 - INFO - Transcript: {'text': ' How do I change my Wi-Fi password?'}
+2024-06-04 15:51:37,076 - INFO - Transcript: {'text': ' Can I switch to the 16-gig plan?'}
+2024-06-04 15:51:49,424 - INFO - Transcript: {'text': ' Can you break down this invoice from January?'}
+2024-06-04 15:52:02,081 - INFO - Transcript: {'text': ' Hi, does my wife I connect on the same day that I move?'}
+2024-06-04 15:52:16,164 - INFO - Transcript: {'text': " I topped up my data and it hasn't showed up on my account yet."}
+2024-06-04 15:52:30,215 - INFO - Transcript: {'text': ' My connection seems to be very slow today.'}
+2024-06-04 15:52:44,490 - INFO - Transcript: {'text': " What's the next available plan after the one I have now?"}
+2024-06-04 15:52:58,901 - INFO - Transcript: {'text': ' I seem to have an increase in my bill this month.'}
+2024-06-04 15:53:14,333 - INFO - Transcript: {'text': " I'm moving to a new apartment but they say that Optus is not available as a provider."}
+2024-06-04 15:53:30,014 - INFO - Transcript: {'text': " I can't seem to connect to the internet."}
+2024-06-04 15:53:43,888 - INFO - Transcript: {'text': " I'm having trouble logging in."}
+2024-06-04 15:53:58,071 - INFO - Transcript: {'text': ' I need help setting up my account.'}
+2024-06-04 15:54:13,038 - INFO - Transcript: {'text': ' I forgot my username and password.'}
+2024-06-04 15:54:28,530 - INFO - Transcript: {'text': ' I want to update my home address.'}
+2024-06-04 15:54:45,506 - INFO - Transcript: {'text': ' Can you help me change my email address?'}
+2024-06-04 15:55:00,428 - INFO - Transcript: {'text': ' ¡Hoy cago!'}
+2024-06-04 15:55:16,271 - INFO - Transcript: {'text': " I told you a thousand times I'm interested in getting a phone plan"}
+2024-06-04 15:55:34,979 - INFO - Transcript: {'text': ' I have been experiencing this issue for so long already.'}
+2024-06-04 15:55:48,551 - INFO - Transcript: {'text': ' I am so unhappy with your service.'}
+2024-06-04 15:56:00,889 - INFO - Transcript: {'text': ' I need help setting up my account!'}
+2024-06-04 15:56:15,098 - INFO - Transcript: {'text': " I would like to report a rude guy who's heard me earlier."}
+2024-06-04 15:56:28,189 - INFO - Transcript: {'text': ' I would like to dispute a charge made on my account.'}
+2024-06-04 15:56:41,517 - INFO - Transcript: {'text': ' Can you help me? Please? Please?'}
+2024-06-04 15:56:54,799 - INFO - Transcript: {'text': ' Can you just help me please?'}
+2024-06-04 15:57:08,263 - INFO - Transcript: {'text': ' Can you just help me? Come on!'}
+2024-06-04 15:57:22,036 - INFO - Transcript: {'text': ' Just tell me, will you be able to help me or not?'}
+2024-06-04 15:57:36,013 - INFO - Transcript: {'text': ' POTRON LE MAMON!'}
+2024-06-04 15:57:48,286 - INFO - Transcript: {'text': ' You are fucking useless.'}
+2024-06-04 15:58:03,735 - INFO - Transcript: {'text': ' You are useless.'}
+2024-06-04 15:58:16,262 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 15:58:27,609 - INFO - Transcript: {'text': ' You are worthless.'}
+2024-06-04 15:58:39,536 - INFO - Transcript: {'text': ' You are nothing.'}
+2024-06-04 15:58:53,380 - INFO - Transcript: {'text': ' I just want to buy a goddamn phone!'}
+2024-06-04 15:59:10,109 - INFO - Transcript: {'text': ' God damn it!'}
+2024-06-04 15:59:25,841 - INFO - Transcript: {'text': ' Damn you and your stupid service!'}
+2024-06-04 15:59:40,910 - INFO - Transcript: {'text': ' You have the worst service ever.'}
+2024-06-04 15:59:53,710 - INFO - Transcript: {'text': ' Go to hell!'}
+2024-06-04 16:00:12,341 - INFO - Transcript: {'text': ' Hijo de puta'}
+2024-06-04 16:00:29,807 - INFO - Transcript: {'text': ' You piece of shit.'}
+2024-06-04 16:00:46,936 - INFO - Transcript: {'text': ' You are a piece of shit.'}
+2024-06-04 16:01:05,178 - INFO - Transcript: {'text': ' You are trash.'}
+2024-06-04 16:01:25,379 - INFO - Transcript: {'text': ' Your service sucks.'}
+2024-06-04 16:01:38,787 - INFO - Transcript: {'text': ' You fucking suck.'}
+2024-06-04 16:01:53,122 - INFO - Transcript: {'text': ' You suck.'}
+2024-06-04 16:02:11,012 - INFO - Transcript: {'text': ' You can suck my balls.'}
+2024-06-04 16:02:30,583 - INFO - Transcript: {'text': ' I just want to get a new phone.'}
+2024-06-04 16:02:48,693 - INFO - Transcript: {'text': ' My phone is not working!'}
+2024-06-04 16:03:08,420 - INFO - Transcript: {'text': ' I am very dissatisfied with your service.'}
+2024-06-04 16:03:22,023 - INFO - Transcript: {'text': ' AHHHHHHHHH'}
+2024-06-04 16:03:36,080 - INFO - Transcript: {'text': ' Your service is very disappointing.'}
+2024-06-04 16:03:48,822 - INFO - Transcript: {'text': " I told you I can't log in!"}
+2024-06-04 16:04:10,690 - INFO - Transcript: {'text': " It's been months! I still haven't received my bill! Where is it?"}
+2024-06-04 16:04:25,800 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 16:04:31,616 - INFO - Transcript: {'text': ' Just give me the options will you?'}
+2024-06-04 16:04:46,594 - INFO - Transcript: {'text': " I can't send a single thing!"}
+2024-06-04 16:05:00,719 - INFO - Transcript: {'text': ' I have a problem with the way you have been speaking to me.'}
+2024-06-04 16:05:37,233 - INFO - Transcript: {'text': ' I forgot my password okay? I forgot it!'}
+2024-06-04 16:06:03,972 - INFO - Transcript: {'text': ' The bill I received is wrong.'}
+2024-06-04 16:06:34,857 - INFO - Transcript: {'text': ' Just tell me how much it costs.'}
+2024-06-04 16:06:59,630 - INFO - Transcript: {'text': ' I have been receiving tons of worthless messages. Please stop.'}
+2024-06-04 16:07:13,197 - INFO - Transcript: {'text': ' Shut the fuck up! Shut the fuck up!'}
+2024-06-04 16:07:28,830 - INFO - Transcript: {'text': ' Can you stop? Please! Stop!'}
+2024-06-04 16:07:42,702 - INFO - Transcript: {'text': ' Just leave me the hell alone!'}
+2024-06-04 16:08:02,893 - INFO - Transcript: {'text': " I don't want to do any business with you ever again."}
+2024-06-04 16:08:19,179 - INFO - Transcript: {'text': ' Can you help me change my email address or not?'}
+2024-06-04 16:08:33,320 - INFO - Transcript: {'text': ' Are you gonna help me or what?'}
+2024-06-04 16:08:48,459 - INFO - Transcript: {'text': ' I just want to pay monthly instead of yearly. How difficult is that?'}
+2024-06-04 16:09:06,039 - INFO - Transcript: {'text': " I'm so disappointed I didn't get into any of the schools I've applied to."}
+2024-06-04 16:10:21,094 - INFO - Transcript: {'text': ' AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'}
+2024-06-04 16:10:36,919 - INFO - Transcript: {'text': ' Shut up already!'}
+2024-06-04 16:10:52,666 - INFO - Transcript: {'text': ' You motherfucker!'}
+2024-06-04 16:11:07,671 - INFO - Transcript: {'text': ' You are a fucking idiot.'}
+2024-06-04 16:11:22,919 - INFO - Transcript: {'text': ' You dumb fuck.'}
+2024-06-04 16:11:44,419 - INFO - Transcript: {'text': ' Hi, I would like to dispute a charge made on my account.'}
+2024-06-04 16:12:00,260 - INFO - Transcript: {'text': " I haven't received my bill for the month of April."}
+2024-06-04 16:12:16,081 - INFO - Transcript: {'text': ' There is something wrong with my invoice statement.'}
+2024-06-04 16:12:28,593 - ERROR - Error occurred: [Errno 2] No such file or directory: 'all_recordings/1.wav'
+2024-06-04 16:12:31,880 - INFO - Transcript: {'text': ' How much do I have to pay monthly for my plan? I forgot.'}
+2024-06-04 16:12:47,382 - INFO - Transcript: {'text': ' I would like to pay monthly instead of yearly. Can you do that?'}
+2024-06-04 16:13:13,338 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 16:13:14,583 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday."}
+2024-06-04 16:13:28,915 - INFO - Transcript: {'text': " I'm unhappy with your service."}
+2024-06-04 16:13:45,067 - INFO - Transcript: {'text': ' I actually have a problem with the way you handled my request.'}
+2024-06-04 16:14:01,016 - INFO - Transcript: {'text': ' This is unacceptable.'}
+2024-06-04 16:14:16,256 - INFO - Transcript: {'text': ' I would like to speak with your supervisor.'}
+2024-06-04 16:14:32,875 - INFO - Transcript: {'text': ' Fuck you!'}
+2024-06-04 16:14:46,776 - INFO - Transcript: {'text': ' I hate you for treating me like shit!'}
+2024-06-04 16:15:02,494 - INFO - Transcript: {'text': " I'm interested in getting a phone plan."}
+2024-06-04 16:15:16,504 - INFO - Transcript: {'text': " I'd like to buy a new iPhone."}
+2024-06-04 16:15:32,656 - INFO - Transcript: {'text': ' What are my options for Samsung Galaxy phone accessories?'}
+2024-06-04 16:15:57,369 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 16:15:57,738 - INFO - Transcript: {'text': ' Do you offer a discount for students?'}
+2024-06-04 16:16:24,659 - INFO - Transcript: {'text': ' How much does your para-bank cost?'}
+2024-06-04 16:16:24,688 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 16:16:37,758 - INFO - Transcript: {'text': " My iPhone isn't working properly."}
+2024-06-04 16:16:54,206 - INFO - Transcript: {'text': " I'm experiencing an issue with my mobile data."}
+2024-06-04 16:17:13,397 - INFO - Transcript: {'text': " I'm having trouble with sending messages to my friends."}
+2024-06-04 16:17:31,693 - INFO - Transcript: {'text': " I can't receive calls."}
+2024-06-04 16:17:48,042 - INFO - Transcript: {'text': " There's an error message saying, fail to connect when I played mobile latency."}
+2024-06-04 16:18:07,288 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 16:18:10,354 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 16:18:12,372 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x00000255B1CF39C0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-06-04 16:19:08,341 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 16:19:10,546 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 16:20:08,909 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 16:20:10,861 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 16:25:02,046 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 16:25:15,406 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 16:25:29,028 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 16:26:34,620 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 16:26:44,970 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 16:26:56,400 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 16:27:08,958 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 16:27:27,608 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 16:27:39,594 - INFO - PyTorch version 2.3.0 available.
+2024-06-04 16:27:39,601 - INFO - TensorFlow version 2.16.1 available.
+2024-06-04 16:28:06,880 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 16:28:34,023 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 16:28:55,667 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 16:30:32,551 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 16:30:46,770 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 16:30:58,959 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 16:31:11,429 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 16:31:14,553 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 16:31:15,094 - INFO - PyTorch version 2.3.0 available.
+2024-06-04 16:31:15,100 - INFO - TensorFlow version 2.16.1 available.
+2024-06-04 16:31:28,088 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 16:31:57,715 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 16:32:21,452 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 16:33:06,638 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 16:33:19,972 - INFO - Transcript: {'text': ' Are there any promotions on upgrades available right now?'}
+2024-06-04 16:33:34,917 - INFO - Transcript: {'text': ' Can you explain the charges on my latest build?'}
+2024-06-04 16:33:47,832 - INFO - Transcript: {'text': ' What information do you need to process my move?'}
+2024-06-04 16:34:00,894 - INFO - Transcript: {'text': ' How do I speak to about your poor service quality?'}
+2024-06-04 16:34:13,310 - INFO - Transcript: {'text': ' Can you help me understand my service features?'}
+2024-06-04 16:34:26,602 - INFO - Transcript: {'text': ' Can I switch to a different daughter plan in mid-month?'}
+2024-06-04 16:34:39,937 - INFO - Transcript: {'text': ' Why is my bill higher this month compared to last month?'}
+2024-06-04 16:34:54,085 - INFO - Transcript: {'text': ' Will my service be interrupted during relocation?'}
+2024-06-04 16:35:08,109 - INFO - Transcript: {'text': ' My issue has not been resolved. What are the next steps?'}
+2024-06-04 16:35:22,218 - INFO - Transcript: {'text': ' My Wi-Fi is not working.'}
+2024-06-04 16:35:35,651 - INFO - Transcript: {'text': ' How do I change my mobile plan?'}
+2024-06-04 16:35:48,891 - INFO - Transcript: {'text': " I haven't received my bill for the month yet."}
+2024-06-04 16:36:03,161 - INFO - Transcript: {'text': ' How long will it take for my Wi-Fi to come back up when I move houses?'}
+2024-06-04 16:36:17,158 - INFO - Transcript: {'text': ' Resolve this immediately. My Wi-Fi still has not been working after three days.'}
+2024-06-04 16:36:34,108 - INFO - Transcript: {'text': ' How do I change my Wi-Fi password?'}
+2024-06-04 16:36:49,665 - INFO - Transcript: {'text': ' Can I switch to the 16-gig plan?'}
+2024-06-04 16:37:05,072 - INFO - Transcript: {'text': ' Can you break down this invoice from January?'}
+2024-06-04 16:37:22,407 - INFO - Transcript: {'text': ' Hi, does my wife I connect on the same day that I move?'}
+2024-06-04 16:37:42,235 - INFO - Transcript: {'text': " I topped up my data and it hasn't showed up on my account yet."}
+2024-06-04 16:37:54,738 - INFO - Transcript: {'text': ' My connection seems to be very slow today.'}
+2024-06-04 16:38:08,203 - INFO - Transcript: {'text': " What's the next available plan after the one I have now?"}
+2024-06-04 16:38:21,685 - INFO - Transcript: {'text': ' I seem to have an increase in my bill this month.'}
+2024-06-04 16:38:36,181 - INFO - Transcript: {'text': " I'm moving to a new apartment but they say that Optus is not available as a provider."}
+2024-06-04 16:38:49,637 - INFO - Transcript: {'text': " I can't seem to connect to the internet."}
+2024-06-04 16:39:02,333 - INFO - Transcript: {'text': " I'm having trouble logging in."}
+2024-06-04 16:39:14,648 - INFO - Transcript: {'text': ' I need help setting up my account.'}
+2024-06-04 16:39:28,050 - INFO - Transcript: {'text': ' I forgot my username and password.'}
+2024-06-04 16:39:40,878 - INFO - Transcript: {'text': ' I want to update my home address.'}
+2024-06-04 16:39:54,143 - INFO - Transcript: {'text': ' Can you help me change my email address?'}
+2024-06-04 16:40:06,772 - INFO - Transcript: {'text': ' ¡Hoy cago!'}
+2024-06-04 16:40:19,640 - INFO - Transcript: {'text': " I told you a thousand times I'm interested in getting a phone plan"}
+2024-06-04 16:40:32,597 - INFO - Transcript: {'text': ' I have been experiencing this issue for so long already.'}
+2024-06-04 16:40:45,242 - INFO - Transcript: {'text': ' I am so unhappy with your service.'}
+2024-06-04 16:40:57,463 - INFO - Transcript: {'text': ' I need help setting up my account!'}
+2024-06-04 16:41:10,442 - INFO - Transcript: {'text': " I would like to report a rude guy who's heard me earlier."}
+2024-06-04 16:41:25,861 - INFO - Transcript: {'text': ' I would like to dispute a charge made on my account.'}
+2024-06-04 16:41:40,707 - INFO - Transcript: {'text': ' Can you help me? Please? Please?'}
+2024-06-04 16:41:55,680 - INFO - Transcript: {'text': ' Can you just help me please?'}
+2024-06-04 16:42:11,265 - INFO - Transcript: {'text': ' Can you just help me? Come on!'}
+2024-06-04 16:42:27,685 - INFO - Transcript: {'text': ' Just tell me, will you be able to help me or not?'}
+2024-06-04 16:42:43,032 - INFO - Transcript: {'text': ' POTRON LE MAMON!'}
+2024-06-04 16:42:55,971 - INFO - Transcript: {'text': ' You are fucking useless.'}
+2024-06-04 16:43:13,746 - INFO - Transcript: {'text': ' You are useless.'}
+2024-06-04 16:43:29,216 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 16:43:47,811 - INFO - Transcript: {'text': ' You are worthless.'}
+2024-06-04 16:44:08,281 - INFO - Transcript: {'text': ' You are nothing.'}
+2024-06-04 16:44:23,631 - INFO - Transcript: {'text': ' I just want to buy a goddamn phone!'}
+2024-06-04 16:44:38,793 - INFO - Transcript: {'text': ' God damn it!'}
+2024-06-04 16:44:53,527 - INFO - Transcript: {'text': ' Damn you and your stupid service!'}
+2024-06-04 16:45:08,840 - INFO - Transcript: {'text': ' You have the worst service ever.'}
+2024-06-04 16:45:19,648 - INFO - Transcript: {'text': ' Go to hell!'}
+2024-06-04 16:45:33,612 - INFO - Transcript: {'text': ' Hijo de puta'}
+2024-06-04 16:45:45,854 - INFO - Transcript: {'text': ' You piece of shit.'}
+2024-06-04 16:45:58,093 - INFO - Transcript: {'text': ' You are a piece of shit.'}
+2024-06-04 16:46:08,033 - INFO - Transcript: {'text': ' You are trash.'}
+2024-06-04 16:46:18,264 - INFO - Transcript: {'text': ' Your service sucks.'}
+2024-06-04 16:46:26,519 - INFO - Transcript: {'text': ' You fucking suck.'}
+2024-06-04 16:46:35,811 - INFO - Transcript: {'text': ' You suck.'}
+2024-06-04 16:46:45,248 - INFO - Transcript: {'text': ' You can suck my balls.'}
+2024-06-04 16:46:54,766 - INFO - Transcript: {'text': ' I just want to get a new phone.'}
+2024-06-04 16:47:04,428 - INFO - Transcript: {'text': ' My phone is not working!'}
+2024-06-04 16:47:13,071 - INFO - Transcript: {'text': ' I am very dissatisfied with your service.'}
+2024-06-04 16:47:22,269 - INFO - Transcript: {'text': ' AHHHHHHHHH'}
+2024-06-04 16:47:31,385 - INFO - Transcript: {'text': ' Your service is very disappointing.'}
+2024-06-04 16:47:40,881 - INFO - Transcript: {'text': " I told you I can't log in!"}
+2024-06-04 16:47:51,099 - INFO - Transcript: {'text': " It's been months! I still haven't received my bill! Where is it?"}
+2024-06-04 16:48:00,316 - INFO - Transcript: {'text': ' Just give me the options will you?'}
+2024-06-04 16:48:09,611 - INFO - Transcript: {'text': " I can't send a single thing!"}
+2024-06-04 16:48:18,816 - INFO - Transcript: {'text': ' I have a problem with the way you have been speaking to me.'}
+2024-06-04 16:48:28,057 - INFO - Transcript: {'text': ' I forgot my password okay? I forgot it!'}
+2024-06-04 16:48:36,523 - INFO - Transcript: {'text': ' The bill I received is wrong.'}
+2024-06-04 16:48:45,346 - INFO - Transcript: {'text': ' Just tell me how much it costs.'}
+2024-06-04 16:48:54,586 - INFO - Transcript: {'text': ' I have been receiving tons of worthless messages. Please stop.'}
+2024-06-04 16:49:06,336 - INFO - Transcript: {'text': ' Shut the fuck up! Shut the fuck up!'}
+2024-06-04 16:49:16,454 - INFO - Transcript: {'text': ' Can you stop? Please! Stop!'}
+2024-06-04 16:49:28,803 - INFO - Transcript: {'text': ' Just leave me the hell alone!'}
+2024-06-04 16:50:56,652 - INFO - Transcript: {'text': " I don't want to do any business with you ever again."}
+2024-06-04 16:51:07,294 - INFO - Transcript: {'text': ' Can you help me change my email address or not?'}
+2024-06-04 16:51:16,433 - INFO - Transcript: {'text': ' Are you gonna help me or what?'}
+2024-06-04 16:51:27,457 - INFO - Transcript: {'text': ' I just want to pay monthly instead of yearly. How difficult is that?'}
+2024-06-04 16:51:37,572 - INFO - Transcript: {'text': " I'm so disappointed I didn't get into any of the schools I've applied to."}
+2024-06-04 16:52:35,733 - INFO - Transcript: {'text': ' AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'}
+2024-06-04 16:52:46,387 - INFO - Transcript: {'text': ' Shut up already!'}
+2024-06-04 16:52:57,322 - INFO - Transcript: {'text': ' You motherfucker!'}
+2024-06-04 16:53:07,409 - INFO - Transcript: {'text': ' You are a fucking idiot.'}
+2024-06-04 16:53:17,363 - INFO - Transcript: {'text': ' You dumb fuck.'}
+2024-06-04 16:53:28,204 - INFO - Transcript: {'text': ' Hi, I would like to dispute a charge made on my account.'}
+2024-06-04 16:53:38,985 - INFO - Transcript: {'text': " I haven't received my bill for the month of April."}
+2024-06-04 16:53:49,471 - INFO - Transcript: {'text': ' There is something wrong with my invoice statement.'}
+2024-06-04 16:54:00,305 - INFO - Transcript: {'text': ' How much do I have to pay monthly for my plan? I forgot.'}
+2024-06-04 16:54:10,718 - INFO - Transcript: {'text': ' I would like to pay monthly instead of yearly. Can you do that?'}
+2024-06-04 16:54:20,079 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday."}
+2024-06-04 16:54:28,858 - INFO - Transcript: {'text': " I'm unhappy with your service."}
+2024-06-04 16:54:39,574 - INFO - Transcript: {'text': ' I actually have a problem with the way you handled my request.'}
+2024-06-04 16:54:48,154 - INFO - Transcript: {'text': ' This is unacceptable.'}
+2024-06-04 16:54:59,016 - INFO - Transcript: {'text': ' I would like to speak with your supervisor.'}
+2024-06-04 16:55:07,196 - INFO - Transcript: {'text': ' Fuck you!'}
+2024-06-04 16:55:16,874 - INFO - Transcript: {'text': ' I hate you for treating me like shit!'}
+2024-06-04 16:55:28,006 - INFO - Transcript: {'text': " I'm interested in getting a phone plan."}
+2024-06-04 16:55:36,433 - INFO - Transcript: {'text': " I'd like to buy a new iPhone."}
+2024-06-04 16:55:46,037 - INFO - Transcript: {'text': ' What are my options for Samsung Galaxy phone accessories?'}
+2024-06-04 16:55:56,560 - INFO - Transcript: {'text': ' Do you offer a discount for students?'}
+2024-06-04 16:56:07,015 - INFO - Transcript: {'text': ' How much does your para-bank cost?'}
+2024-06-04 16:56:16,701 - INFO - Transcript: {'text': " My iPhone isn't working properly."}
+2024-06-04 16:56:27,303 - INFO - Transcript: {'text': " I'm experiencing an issue with my mobile data."}
+2024-06-04 16:56:38,372 - INFO - Transcript: {'text': " I'm having trouble with sending messages to my friends."}
+2024-06-04 16:56:49,944 - INFO - Transcript: {'text': " I can't receive calls."}
+2024-06-04 16:57:02,080 - INFO - Transcript: {'text': " There's an error message saying, fail to connect when I played mobile latency."}
+2024-06-04 17:04:00,396 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 17:04:43,062 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 17:04:56,164 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 17:06:47,903 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 17:06:59,102 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 17:07:10,466 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 17:09:27,435 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 17:09:35,527 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 17:09:46,688 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 17:09:56,933 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 17:10:12,152 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 17:10:34,905 - INFO - PyTorch version 2.3.0 available.
+2024-06-04 17:10:34,912 - INFO - TensorFlow version 2.16.1 available.
+2024-06-04 17:11:18,764 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 17:11:50,398 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 17:13:26,179 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 17:15:03,453 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 17:15:11,587 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 17:15:22,084 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 17:15:32,275 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 17:15:35,823 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-04 17:15:36,432 - INFO - PyTorch version 2.3.0 available.
+2024-06-04 17:15:36,439 - INFO - TensorFlow version 2.16.1 available.
+2024-06-04 17:15:46,590 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-04 17:16:03,824 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 17:16:18,309 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 17:17:10,009 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 17:17:21,365 - INFO - Transcript: {'text': ' Are there any promotions on upgrades available right now?'}
+2024-06-04 17:17:33,382 - INFO - Transcript: {'text': ' Can you explain the charges on my latest build?'}
+2024-06-04 17:17:43,548 - INFO - Transcript: {'text': ' What information do you need to process my move?'}
+2024-06-04 17:17:54,222 - INFO - Transcript: {'text': ' How do I speak to about your poor service quality?'}
+2024-06-04 17:18:04,293 - INFO - Transcript: {'text': ' Can you help me understand my service features?'}
+2024-06-04 17:18:13,559 - INFO - Transcript: {'text': ' Can I switch to a different daughter plan in mid-month?'}
+2024-06-04 17:18:23,126 - INFO - Transcript: {'text': ' Why is my bill higher this month compared to last month?'}
+2024-06-04 17:18:33,025 - INFO - Transcript: {'text': ' Will my service be interrupted during relocation?'}
+2024-06-04 17:18:43,064 - INFO - Transcript: {'text': ' My issue has not been resolved. What are the next steps?'}
+2024-06-04 17:18:53,595 - INFO - Transcript: {'text': ' My Wi-Fi is not working.'}
+2024-06-04 17:19:03,451 - INFO - Transcript: {'text': ' How do I change my mobile plan?'}
+2024-06-04 17:19:13,622 - INFO - Transcript: {'text': " I haven't received my bill for the month yet."}
+2024-06-04 17:19:25,983 - INFO - Transcript: {'text': ' How long will it take for my Wi-Fi to come back up when I move houses?'}
+2024-06-04 17:19:36,268 - INFO - Transcript: {'text': ' Resolve this immediately. My Wi-Fi still has not been working after three days.'}
+2024-06-04 17:19:46,636 - INFO - Transcript: {'text': ' How do I change my Wi-Fi password?'}
+2024-06-04 17:19:56,089 - INFO - Transcript: {'text': ' Can I switch to the 16-gig plan?'}
+2024-06-04 17:20:04,920 - INFO - Transcript: {'text': ' Can you break down this invoice from January?'}
+2024-06-04 17:20:14,977 - INFO - Transcript: {'text': ' Hi, does my wife I connect on the same day that I move?'}
+2024-06-04 17:20:24,706 - INFO - Transcript: {'text': " I topped up my data and it hasn't showed up on my account yet."}
+2024-06-04 17:20:38,614 - INFO - Transcript: {'text': ' My connection seems to be very slow today.'}
+2024-06-04 17:20:50,348 - INFO - Transcript: {'text': " What's the next available plan after the one I have now?"}
+2024-06-04 17:21:00,487 - INFO - Transcript: {'text': ' I seem to have an increase in my bill this month.'}
+2024-06-04 17:21:10,933 - INFO - Transcript: {'text': " I'm moving to a new apartment but they say that Optus is not available as a provider."}
+2024-06-04 17:21:21,719 - INFO - Transcript: {'text': " I can't seem to connect to the internet."}
+2024-06-04 17:21:32,298 - INFO - Transcript: {'text': " I'm having trouble logging in."}
+2024-06-04 17:21:42,285 - INFO - Transcript: {'text': ' I need help setting up my account.'}
+2024-06-04 17:21:51,533 - INFO - Transcript: {'text': ' I forgot my username and password.'}
+2024-06-04 17:22:01,583 - INFO - Transcript: {'text': ' I want to update my home address.'}
+2024-06-04 17:22:11,335 - INFO - Transcript: {'text': ' Can you help me change my email address?'}
+2024-06-04 17:22:21,170 - INFO - Transcript: {'text': ' ¡Hoy cago!'}
+2024-06-04 17:22:32,448 - INFO - Transcript: {'text': " I told you a thousand times I'm interested in getting a phone plan"}
+2024-06-04 17:22:41,998 - INFO - Transcript: {'text': ' I have been experiencing this issue for so long already.'}
+2024-06-04 17:22:54,462 - INFO - Transcript: {'text': ' I am so unhappy with your service.'}
+2024-06-04 17:23:06,945 - INFO - Transcript: {'text': ' I need help setting up my account!'}
+2024-06-04 17:23:17,075 - INFO - Transcript: {'text': " I would like to report a rude guy who's heard me earlier."}
+2024-06-04 17:23:30,152 - INFO - Transcript: {'text': ' I would like to dispute a charge made on my account.'}
+2024-06-04 17:23:40,697 - INFO - Transcript: {'text': ' Can you help me? Please? Please?'}
+2024-06-04 17:23:50,676 - INFO - Transcript: {'text': ' Can you just help me please?'}
+2024-06-04 17:24:00,633 - INFO - Transcript: {'text': ' Can you just help me? Come on!'}
+2024-06-04 17:24:10,643 - INFO - Transcript: {'text': ' Just tell me, will you be able to help me or not?'}
+2024-06-04 17:24:19,756 - INFO - Transcript: {'text': ' POTRON LE MAMON!'}
+2024-06-04 17:24:29,040 - INFO - Transcript: {'text': ' You are fucking useless.'}
+2024-06-04 17:24:40,287 - INFO - Transcript: {'text': ' You are useless.'}
+2024-06-04 17:24:50,813 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 17:25:01,066 - INFO - Transcript: {'text': ' You are worthless.'}
+2024-06-04 17:25:11,391 - INFO - Transcript: {'text': ' You are nothing.'}
+2024-06-04 17:25:22,388 - INFO - Transcript: {'text': ' I just want to buy a goddamn phone!'}
+2024-06-04 17:25:33,303 - INFO - Transcript: {'text': ' God damn it!'}
+2024-06-04 17:25:43,240 - INFO - Transcript: {'text': ' Damn you and your stupid service!'}
+2024-06-04 17:25:54,212 - INFO - Transcript: {'text': ' You have the worst service ever.'}
+2024-06-04 17:26:04,735 - INFO - Transcript: {'text': ' Go to hell!'}
+2024-06-04 17:26:14,788 - INFO - Transcript: {'text': ' Hijo de puta'}
+2024-06-04 17:26:23,987 - INFO - Transcript: {'text': ' You piece of shit.'}
+2024-06-04 17:26:34,478 - INFO - Transcript: {'text': ' You are a piece of shit.'}
+2024-06-04 17:26:44,791 - INFO - Transcript: {'text': ' You are trash.'}
+2024-06-04 17:26:55,029 - INFO - Transcript: {'text': ' Your service sucks.'}
+2024-06-04 17:27:05,499 - INFO - Transcript: {'text': ' You fucking suck.'}
+2024-06-04 17:27:15,448 - INFO - Transcript: {'text': ' You suck.'}
+2024-06-04 17:27:26,829 - INFO - Transcript: {'text': ' You can suck my balls.'}
+2024-06-04 17:27:38,385 - INFO - Transcript: {'text': ' I just want to get a new phone.'}
+2024-06-04 17:27:49,471 - INFO - Transcript: {'text': ' My phone is not working!'}
+2024-06-04 17:28:01,468 - INFO - Transcript: {'text': ' I am very dissatisfied with your service.'}
+2024-06-04 17:28:12,832 - INFO - Transcript: {'text': ' AHHHHHHHHH'}
+2024-06-04 17:28:21,042 - INFO - Transcript: {'text': ' Your service is very disappointing.'}
+2024-06-04 17:28:31,717 - INFO - Transcript: {'text': " I told you I can't log in!"}
+2024-06-04 17:28:41,810 - INFO - Transcript: {'text': " It's been months! I still haven't received my bill! Where is it?"}
+2024-06-04 17:28:51,014 - INFO - Transcript: {'text': ' Just give me the options will you?'}
+2024-06-04 17:28:58,528 - INFO - Transcript: {'text': " I can't send a single thing!"}
+2024-06-04 17:29:06,852 - INFO - Transcript: {'text': ' I have a problem with the way you have been speaking to me.'}
+2024-06-04 17:29:16,055 - INFO - Transcript: {'text': ' I forgot my password okay? I forgot it!'}
+2024-06-04 17:29:24,698 - INFO - Transcript: {'text': ' The bill I received is wrong.'}
+2024-06-04 17:29:35,910 - INFO - Transcript: {'text': ' Just tell me how much it costs.'}
+2024-06-04 17:29:47,917 - INFO - Transcript: {'text': ' I have been receiving tons of worthless messages. Please stop.'}
+2024-06-04 17:29:59,309 - INFO - Transcript: {'text': ' Shut the fuck up! Shut the fuck up!'}
+2024-06-04 17:30:08,959 - INFO - Transcript: {'text': ' Can you stop? Please! Stop!'}
+2024-06-04 17:30:20,849 - INFO - Transcript: {'text': ' Just leave me the hell alone!'}
+2024-06-04 17:30:32,018 - INFO - Transcript: {'text': " I don't want to do any business with you ever again."}
+2024-06-04 17:30:43,245 - INFO - Transcript: {'text': ' Can you help me change my email address or not?'}
+2024-06-04 17:30:53,539 - INFO - Transcript: {'text': ' Are you gonna help me or what?'}
+2024-06-04 17:31:03,747 - INFO - Transcript: {'text': ' I just want to pay monthly instead of yearly. How difficult is that?'}
+2024-06-04 17:31:16,947 - INFO - Transcript: {'text': " I'm so disappointed I didn't get into any of the schools I've applied to."}
+2024-06-04 17:32:16,574 - INFO - Transcript: {'text': ' AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'}
+2024-06-04 17:32:33,458 - INFO - Transcript: {'text': ' Shut up already!'}
+2024-06-04 17:32:49,011 - INFO - Transcript: {'text': ' You motherfucker!'}
+2024-06-04 17:33:02,946 - INFO - Transcript: {'text': ' You are a fucking idiot.'}
+2024-06-04 17:33:15,681 - INFO - Transcript: {'text': ' You dumb fuck.'}
+2024-06-04 17:33:31,111 - INFO - Transcript: {'text': ' Hi, I would like to dispute a charge made on my account.'}
+2024-06-04 17:33:42,924 - INFO - Transcript: {'text': " I haven't received my bill for the month of April."}
+2024-06-04 17:33:56,910 - INFO - Transcript: {'text': ' There is something wrong with my invoice statement.'}
+2024-06-04 17:34:11,503 - INFO - Transcript: {'text': ' How much do I have to pay monthly for my plan? I forgot.'}
+2024-06-04 17:34:24,454 - INFO - Transcript: {'text': ' I would like to pay monthly instead of yearly. Can you do that?'}
+2024-06-04 17:34:37,583 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday."}
+2024-06-04 17:34:55,019 - INFO - Transcript: {'text': " I'm unhappy with your service."}
+2024-06-04 17:35:10,649 - INFO - Transcript: {'text': ' I actually have a problem with the way you handled my request.'}
+2024-06-04 17:35:25,286 - INFO - Transcript: {'text': ' This is unacceptable.'}
+2024-06-04 17:35:44,581 - INFO - Transcript: {'text': ' I would like to speak with your supervisor.'}
+2024-06-04 17:35:57,004 - INFO - Transcript: {'text': ' Fuck you!'}
+2024-06-04 17:36:10,684 - INFO - Transcript: {'text': ' I hate you for treating me like shit!'}
+2024-06-04 17:36:25,287 - INFO - Transcript: {'text': " I'm interested in getting a phone plan."}
+2024-06-04 17:36:37,487 - INFO - Transcript: {'text': " I'd like to buy a new iPhone."}
+2024-06-04 17:36:50,147 - INFO - Transcript: {'text': ' What are my options for Samsung Galaxy phone accessories?'}
+2024-06-04 17:37:03,096 - INFO - Transcript: {'text': ' Do you offer a discount for students?'}
+2024-06-04 17:37:15,212 - INFO - Transcript: {'text': ' How much does your para-bank cost?'}
+2024-06-04 17:37:26,611 - INFO - Transcript: {'text': " My iPhone isn't working properly."}
+2024-06-04 17:37:39,510 - INFO - Transcript: {'text': " I'm experiencing an issue with my mobile data."}
+2024-06-04 17:37:53,249 - INFO - Transcript: {'text': " I'm having trouble with sending messages to my friends."}
+2024-06-04 17:38:06,538 - INFO - Transcript: {'text': " I can't receive calls."}
+2024-06-04 17:38:20,401 - INFO - Transcript: {'text': " There's an error message saying, fail to connect when I played mobile latency."}
+2024-06-04 20:43:43,512 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 20:44:23,910 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 20:45:24,597 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 20:49:16,976 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-04 20:49:24,887 - INFO - Transcript: {'text': ' Are there any promotions on upgrades available right now?'}
+2024-06-04 20:49:32,203 - INFO - Transcript: {'text': ' Can you explain the charges on my latest build?'}
+2024-06-04 20:49:39,096 - INFO - Transcript: {'text': ' What information do you need to process my move?'}
+2024-06-04 20:49:45,690 - INFO - Transcript: {'text': ' How do I speak to about your poor service quality?'}
+2024-06-04 20:49:51,301 - INFO - Transcript: {'text': ' Can you help me understand my service features?'}
+2024-06-04 20:49:57,779 - INFO - Transcript: {'text': ' Can I switch to a different daughter plan in mid-month?'}
+2024-06-04 20:50:03,518 - INFO - Transcript: {'text': ' Why is my bill higher this month compared to last month?'}
+2024-06-04 20:50:08,909 - INFO - Transcript: {'text': ' Will my service be interrupted during relocation?'}
+2024-06-04 20:50:14,376 - INFO - Transcript: {'text': ' My issue has not been resolved. What are the next steps?'}
+2024-06-04 20:50:20,682 - INFO - Transcript: {'text': ' My Wi-Fi is not working.'}
+2024-06-04 20:50:28,551 - INFO - Transcript: {'text': ' How do I change my mobile plan?'}
+2024-06-04 20:50:35,585 - INFO - Transcript: {'text': " I haven't received my bill for the month yet."}
+2024-06-04 20:50:44,004 - INFO - Transcript: {'text': ' How long will it take for my Wi-Fi to come back up when I move houses?'}
+2024-06-04 20:50:51,121 - INFO - Transcript: {'text': ' Resolve this immediately. My Wi-Fi still has not been working after three days.'}
+2024-06-04 20:50:58,628 - INFO - Transcript: {'text': ' How do I change my Wi-Fi password?'}
+2024-06-04 20:51:05,481 - INFO - Transcript: {'text': ' Can I switch to the 16-gig plan?'}
+2024-06-04 20:51:12,973 - INFO - Transcript: {'text': ' Can you break down this invoice from January?'}
+2024-06-04 20:51:23,697 - INFO - Transcript: {'text': ' Hi, does my wife I connect on the same day that I move?'}
+2024-06-04 20:51:37,078 - INFO - Transcript: {'text': " I topped up my data and it hasn't showed up on my account yet."}
+2024-06-04 20:51:52,732 - INFO - Transcript: {'text': ' My connection seems to be very slow today.'}
+2024-06-04 20:52:08,049 - INFO - Transcript: {'text': " What's the next available plan after the one I have now?"}
+2024-06-04 20:52:22,771 - INFO - Transcript: {'text': ' I seem to have an increase in my bill this month.'}
+2024-06-04 20:52:38,533 - INFO - Transcript: {'text': " I'm moving to a new apartment but they say that Optus is not available as a provider."}
+2024-06-04 20:52:53,969 - INFO - Transcript: {'text': " I can't seem to connect to the internet."}
+2024-06-04 20:53:07,823 - INFO - Transcript: {'text': " I'm having trouble logging in."}
+2024-06-04 20:53:20,500 - INFO - Transcript: {'text': ' I need help setting up my account.'}
+2024-06-04 20:53:32,602 - INFO - Transcript: {'text': ' I forgot my username and password.'}
+2024-06-04 20:53:44,838 - INFO - Transcript: {'text': ' I want to update my home address.'}
+2024-06-04 20:53:56,821 - INFO - Transcript: {'text': ' Can you help me change my email address?'}
+2024-06-04 20:54:09,738 - INFO - Transcript: {'text': ' ¡Hoy cago!'}
+2024-06-04 20:54:22,901 - INFO - Transcript: {'text': " I told you a thousand times I'm interested in getting a phone plan"}
+2024-06-04 20:54:36,328 - INFO - Transcript: {'text': ' I have been experiencing this issue for so long already.'}
+2024-06-04 20:54:48,817 - INFO - Transcript: {'text': ' I am so unhappy with your service.'}
+2024-06-04 20:55:02,210 - INFO - Transcript: {'text': ' I need help setting up my account!'}
+2024-06-04 20:55:15,701 - INFO - Transcript: {'text': " I would like to report a rude guy who's heard me earlier."}
+2024-06-04 20:55:29,132 - INFO - Transcript: {'text': ' I would like to dispute a charge made on my account.'}
+2024-06-04 20:55:41,987 - INFO - Transcript: {'text': ' Can you help me? Please? Please?'}
+2024-06-04 20:55:54,352 - INFO - Transcript: {'text': ' Can you just help me please?'}
+2024-06-04 20:56:12,742 - INFO - Transcript: {'text': ' Can you just help me? Come on!'}
+2024-06-04 20:56:29,440 - INFO - Transcript: {'text': ' Just tell me, will you be able to help me or not?'}
+2024-06-04 20:56:45,256 - INFO - Transcript: {'text': ' POTRON LE MAMON!'}
+2024-06-04 20:56:59,577 - INFO - Transcript: {'text': ' You are fucking useless.'}
+2024-06-04 20:57:14,923 - INFO - Transcript: {'text': ' You are useless.'}
+2024-06-04 20:57:29,948 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-04 20:57:44,727 - INFO - Transcript: {'text': ' You are worthless.'}
+2024-06-04 20:58:00,856 - INFO - Transcript: {'text': ' You are nothing.'}
+2024-06-04 20:58:18,120 - INFO - Transcript: {'text': ' I just want to buy a goddamn phone!'}
+2024-06-04 20:58:44,560 - INFO - Transcript: {'text': ' God damn it!'}
+2024-06-04 20:59:04,096 - INFO - Transcript: {'text': ' Damn you and your stupid service!'}
+2024-06-04 20:59:19,782 - INFO - Transcript: {'text': ' You have the worst service ever.'}
+2024-06-04 20:59:35,445 - INFO - Transcript: {'text': ' Go to hell!'}
+2024-06-04 20:59:51,235 - INFO - Transcript: {'text': ' Hijo de puta'}
+2024-06-04 21:00:10,761 - INFO - Transcript: {'text': ' You piece of shit.'}
+2024-06-04 21:00:26,631 - INFO - Transcript: {'text': ' You are a piece of shit.'}
+2024-06-04 21:00:41,339 - INFO - Transcript: {'text': ' You are trash.'}
+2024-06-04 21:00:56,398 - INFO - Transcript: {'text': ' Your service sucks.'}
+2024-06-04 21:01:11,499 - INFO - Transcript: {'text': ' You fucking suck.'}
+2024-06-04 21:01:26,441 - INFO - Transcript: {'text': ' You suck.'}
+2024-06-04 21:01:40,303 - INFO - Transcript: {'text': ' You can suck my balls.'}
+2024-06-04 21:01:57,441 - INFO - Transcript: {'text': ' I just want to get a new phone.'}
+2024-06-04 21:02:10,751 - INFO - Transcript: {'text': ' My phone is not working!'}
+2024-06-04 21:02:24,918 - INFO - Transcript: {'text': ' I am very dissatisfied with your service.'}
+2024-06-04 21:02:45,559 - INFO - Transcript: {'text': ' AHHHHHHHHH'}
+2024-06-04 21:03:07,510 - INFO - Transcript: {'text': ' Your service is very disappointing.'}
+2024-06-04 21:03:27,021 - INFO - Transcript: {'text': " I told you I can't log in!"}
+2024-06-04 21:03:50,180 - INFO - Transcript: {'text': " It's been months! I still haven't received my bill! Where is it?"}
+2024-06-04 21:04:07,699 - INFO - Transcript: {'text': ' Just give me the options will you?'}
+2024-06-04 21:04:24,067 - INFO - Transcript: {'text': " I can't send a single thing!"}
+2024-06-04 21:04:40,887 - INFO - Transcript: {'text': ' I have a problem with the way you have been speaking to me.'}
+2024-06-04 21:04:58,191 - INFO - Transcript: {'text': ' I forgot my password okay? I forgot it!'}
+2024-06-04 21:05:18,374 - INFO - Transcript: {'text': ' The bill I received is wrong.'}
+2024-06-04 21:05:36,731 - INFO - Transcript: {'text': ' Just tell me how much it costs.'}
+2024-06-04 21:05:53,197 - INFO - Transcript: {'text': ' I have been receiving tons of worthless messages. Please stop.'}
+2024-06-04 21:06:15,734 - INFO - Transcript: {'text': ' Shut the fuck up! Shut the fuck up!'}
+2024-06-04 21:06:34,802 - INFO - Transcript: {'text': ' Can you stop? Please! Stop!'}
+2024-06-04 21:06:56,670 - INFO - Transcript: {'text': ' Just leave me the hell alone!'}
+2024-06-04 21:07:36,736 - INFO - Transcript: {'text': " I don't want to do any business with you ever again."}
+2024-06-04 21:08:05,690 - INFO - Transcript: {'text': ' Can you help me change my email address or not?'}
+2024-06-04 21:08:28,563 - INFO - Transcript: {'text': ' Are you gonna help me or what?'}
+2024-06-04 21:08:52,235 - INFO - Transcript: {'text': ' I just want to pay monthly instead of yearly. How difficult is that?'}
+2024-06-04 21:09:28,326 - INFO - Transcript: {'text': " I'm so disappointed I didn't get into any of the schools I've applied to."}
+2024-06-04 21:11:51,802 - INFO - Transcript: {'text': ' AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'}
+2024-06-04 21:12:22,550 - INFO - Transcript: {'text': ' Shut up already!'}
+2024-06-04 21:13:01,100 - INFO - Transcript: {'text': ' You motherfucker!'}
+2024-06-04 21:13:56,277 - INFO - Transcript: {'text': ' You are a fucking idiot.'}
+2024-06-04 21:14:48,030 - INFO - Transcript: {'text': ' You dumb fuck.'}
+2024-06-04 21:15:28,693 - INFO - Transcript: {'text': ' Hi, I would like to dispute a charge made on my account.'}
+2024-06-04 21:15:52,026 - INFO - Transcript: {'text': " I haven't received my bill for the month of April."}
+2024-06-04 21:16:13,808 - INFO - Transcript: {'text': ' There is something wrong with my invoice statement.'}
+2024-06-04 21:16:37,801 - INFO - Transcript: {'text': ' How much do I have to pay monthly for my plan? I forgot.'}
+2024-06-04 21:16:59,235 - INFO - Transcript: {'text': ' I would like to pay monthly instead of yearly. Can you do that?'}
+2024-06-04 21:17:20,392 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday."}
+2024-06-04 21:17:46,496 - INFO - Transcript: {'text': " I'm unhappy with your service."}
+2024-06-04 21:18:15,204 - INFO - Transcript: {'text': ' I actually have a problem with the way you handled my request.'}
+2024-06-04 21:19:02,194 - INFO - Transcript: {'text': ' This is unacceptable.'}
+2024-06-04 21:19:53,060 - INFO - Transcript: {'text': ' I would like to speak with your supervisor.'}
+2024-06-04 21:20:42,398 - INFO - Transcript: {'text': ' Fuck you!'}
+2024-06-04 21:21:11,075 - INFO - Transcript: {'text': ' I hate you for treating me like shit!'}
+2024-06-04 21:21:33,375 - INFO - Transcript: {'text': " I'm interested in getting a phone plan."}
+2024-06-04 21:22:05,712 - INFO - Transcript: {'text': " I'd like to buy a new iPhone."}
+2024-06-04 21:22:37,941 - INFO - Transcript: {'text': ' What are my options for Samsung Galaxy phone accessories?'}
+2024-06-04 21:23:35,933 - INFO - Transcript: {'text': ' Do you offer a discount for students?'}
+2024-06-04 21:24:28,746 - INFO - Transcript: {'text': ' How much does your para-bank cost?'}
+2024-06-04 21:25:16,887 - INFO - Transcript: {'text': " My iPhone isn't working properly."}
+2024-06-04 21:25:49,300 - INFO - Transcript: {'text': " I'm experiencing an issue with my mobile data."}
+2024-06-04 21:26:22,795 - INFO - Transcript: {'text': " I'm having trouble with sending messages to my friends."}
+2024-06-04 21:26:58,169 - INFO - Transcript: {'text': " I can't receive calls."}
+2024-06-04 21:27:50,259 - INFO - Transcript: {'text': " There's an error message saying, fail to connect when I played mobile latency."}
+2024-06-05 00:12:09,337 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-05 00:58:30,082 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-05 00:58:45,433 - INFO - Transcript: {'text': ' Are there any promotions on upgrades available right now?'}
+2024-06-05 00:58:59,238 - INFO - Transcript: {'text': ' Can you explain the charges on my latest build?'}
+2024-06-05 00:59:14,587 - INFO - Transcript: {'text': ' What information do you need to process my move?'}
+2024-06-05 00:59:28,786 - INFO - Transcript: {'text': ' How do I speak to about your poor service quality?'}
+2024-06-05 00:59:45,986 - INFO - Transcript: {'text': ' Can you help me understand my service features?'}
+2024-06-05 01:00:01,376 - INFO - Transcript: {'text': ' Can I switch to a different daughter plan in mid-month?'}
+2024-06-05 01:00:16,443 - INFO - Transcript: {'text': ' Why is my bill higher this month compared to last month?'}
+2024-06-05 01:00:32,154 - INFO - Transcript: {'text': ' Will my service be interrupted during relocation?'}
+2024-06-05 01:00:45,723 - INFO - Transcript: {'text': ' My issue has not been resolved. What are the next steps?'}
+2024-06-05 01:01:00,103 - INFO - Transcript: {'text': ' My Wi-Fi is not working.'}
+2024-06-05 01:01:14,521 - INFO - Transcript: {'text': ' How do I change my mobile plan?'}
+2024-06-05 01:01:28,166 - INFO - Transcript: {'text': " I haven't received my bill for the month yet."}
+2024-06-05 01:01:43,552 - INFO - Transcript: {'text': ' How long will it take for my Wi-Fi to come back up when I move houses?'}
+2024-06-05 01:01:59,629 - INFO - Transcript: {'text': ' Resolve this immediately. My Wi-Fi still has not been working after three days.'}
+2024-06-05 01:02:16,422 - INFO - Transcript: {'text': ' How do I change my Wi-Fi password?'}
+2024-06-05 01:02:29,869 - INFO - Transcript: {'text': ' Can I switch to the 16-gig plan?'}
+2024-06-05 01:02:42,848 - INFO - Transcript: {'text': ' Can you break down this invoice from January?'}
+2024-06-05 01:02:57,339 - INFO - Transcript: {'text': ' Hi, does my wife I connect on the same day that I move?'}
+2024-06-05 01:03:12,218 - INFO - Transcript: {'text': " I topped up my data and it hasn't showed up on my account yet."}
+2024-06-05 01:03:27,462 - INFO - Transcript: {'text': ' My connection seems to be very slow today.'}
+2024-06-05 01:03:43,592 - INFO - Transcript: {'text': " What's the next available plan after the one I have now?"}
+2024-06-05 01:03:57,431 - INFO - Transcript: {'text': ' I seem to have an increase in my bill this month.'}
+2024-06-05 01:04:12,029 - INFO - Transcript: {'text': " I'm moving to a new apartment but they say that Optus is not available as a provider."}
+2024-06-05 01:04:28,413 - INFO - Transcript: {'text': " I can't seem to connect to the internet."}
+2024-06-05 01:04:43,845 - INFO - Transcript: {'text': " I'm having trouble logging in."}
+2024-06-05 01:05:01,749 - INFO - Transcript: {'text': ' I need help setting up my account.'}
+2024-06-05 01:05:17,069 - INFO - Transcript: {'text': ' I forgot my username and password.'}
+2024-06-05 01:05:37,037 - INFO - Transcript: {'text': ' I want to update my home address.'}
+2024-06-05 01:05:51,350 - INFO - Transcript: {'text': ' Can you help me change my email address?'}
+2024-06-05 01:06:04,234 - INFO - Transcript: {'text': ' ¡Hoy cago!'}
+2024-06-05 01:06:18,794 - INFO - Transcript: {'text': " I told you a thousand times I'm interested in getting a phone plan"}
+2024-06-05 01:06:32,055 - INFO - Transcript: {'text': ' I have been experiencing this issue for so long already.'}
+2024-06-05 01:06:52,644 - INFO - Transcript: {'text': ' I am so unhappy with your service.'}
+2024-06-05 01:07:13,753 - INFO - Transcript: {'text': ' I need help setting up my account!'}
+2024-06-05 01:07:28,924 - INFO - Transcript: {'text': " I would like to report a rude guy who's heard me earlier."}
+2024-06-05 01:07:45,986 - INFO - Transcript: {'text': ' I would like to dispute a charge made on my account.'}
+2024-06-05 01:07:58,960 - INFO - Transcript: {'text': ' Can you help me? Please? Please?'}
+2024-06-05 01:08:11,514 - INFO - Transcript: {'text': ' Can you just help me please?'}
+2024-06-05 01:08:25,636 - INFO - Transcript: {'text': ' Can you just help me? Come on!'}
+2024-06-05 01:08:41,347 - INFO - Transcript: {'text': ' Just tell me, will you be able to help me or not?'}
+2024-06-05 01:08:54,982 - INFO - Transcript: {'text': ' POTRON LE MAMON!'}
+2024-06-05 01:09:07,710 - INFO - Transcript: {'text': ' You are fucking useless.'}
+2024-06-05 01:09:25,365 - INFO - Transcript: {'text': ' You are useless.'}
+2024-06-05 01:09:41,699 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-05 01:09:56,065 - INFO - Transcript: {'text': ' You are worthless.'}
+2024-06-05 01:10:11,174 - INFO - Transcript: {'text': ' You are nothing.'}
+2024-06-05 01:10:28,404 - INFO - Transcript: {'text': ' I just want to buy a goddamn phone!'}
+2024-06-05 01:10:49,555 - INFO - Transcript: {'text': ' God damn it!'}
+2024-06-05 01:11:04,764 - INFO - Transcript: {'text': ' Damn you and your stupid service!'}
+2024-06-05 01:11:20,730 - INFO - Transcript: {'text': ' You have the worst service ever.'}
+2024-06-05 01:11:39,425 - INFO - Transcript: {'text': ' Go to hell!'}
+2024-06-05 01:11:56,469 - INFO - Transcript: {'text': ' Hijo de puta'}
+2024-06-05 01:12:10,743 - INFO - Transcript: {'text': ' You piece of shit.'}
+2024-06-05 01:12:29,045 - INFO - Transcript: {'text': ' You are a piece of shit.'}
+2024-06-05 01:12:44,450 - INFO - Transcript: {'text': ' You are trash.'}
+2024-06-05 01:12:59,079 - INFO - Transcript: {'text': ' Your service sucks.'}
+2024-06-05 01:13:14,913 - INFO - Transcript: {'text': ' You fucking suck.'}
+2024-06-05 01:13:30,776 - INFO - Transcript: {'text': ' You suck.'}
+2024-06-05 01:13:45,732 - INFO - Transcript: {'text': ' You can suck my balls.'}
+2024-06-05 01:14:01,251 - INFO - Transcript: {'text': ' I just want to get a new phone.'}
+2024-06-05 01:14:14,428 - INFO - Transcript: {'text': ' My phone is not working!'}
+2024-06-05 01:14:30,485 - INFO - Transcript: {'text': ' I am very dissatisfied with your service.'}
+2024-06-05 01:14:46,977 - INFO - Transcript: {'text': ' AHHHHHHHHH'}
+2024-06-05 01:15:00,583 - INFO - Transcript: {'text': ' Your service is very disappointing.'}
+2024-06-05 01:15:17,633 - INFO - Transcript: {'text': " I told you I can't log in!"}
+2024-06-05 01:15:35,500 - INFO - Transcript: {'text': " It's been months! I still haven't received my bill! Where is it?"}
+2024-06-05 01:15:53,388 - INFO - Transcript: {'text': ' Just give me the options will you?'}
+2024-06-05 01:16:06,726 - INFO - Transcript: {'text': " I can't send a single thing!"}
+2024-06-05 01:16:22,964 - INFO - Transcript: {'text': ' I have a problem with the way you have been speaking to me.'}
+2024-06-05 01:16:43,824 - INFO - Transcript: {'text': ' I forgot my password okay? I forgot it!'}
+2024-06-05 01:17:00,395 - INFO - Transcript: {'text': ' The bill I received is wrong.'}
+2024-06-05 01:17:18,705 - INFO - Transcript: {'text': ' Just tell me how much it costs.'}
+2024-06-05 01:17:36,888 - INFO - Transcript: {'text': ' I have been receiving tons of worthless messages. Please stop.'}
+2024-06-05 01:17:55,886 - INFO - Transcript: {'text': ' Shut the fuck up! Shut the fuck up!'}
+2024-06-05 01:18:10,821 - INFO - Transcript: {'text': ' Can you stop? Please! Stop!'}
+2024-06-05 01:18:31,381 - INFO - Transcript: {'text': ' Just leave me the hell alone!'}
+2024-06-05 01:18:49,823 - INFO - Transcript: {'text': " I don't want to do any business with you ever again."}
+2024-06-05 01:19:09,182 - INFO - Transcript: {'text': ' Can you help me change my email address or not?'}
+2024-06-05 01:19:24,263 - INFO - Transcript: {'text': ' Are you gonna help me or what?'}
+2024-06-05 01:19:38,045 - INFO - Transcript: {'text': ' I just want to pay monthly instead of yearly. How difficult is that?'}
+2024-06-05 01:19:55,979 - INFO - Transcript: {'text': " I'm so disappointed I didn't get into any of the schools I've applied to."}
+2024-06-05 01:21:11,280 - INFO - Transcript: {'text': ' AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'}
+2024-06-05 01:21:29,684 - INFO - Transcript: {'text': ' Shut up already!'}
+2024-06-05 01:21:51,755 - INFO - Transcript: {'text': ' You motherfucker!'}
+2024-06-05 01:22:13,705 - INFO - Transcript: {'text': ' You are a fucking idiot.'}
+2024-06-05 01:22:34,931 - INFO - Transcript: {'text': ' You dumb fuck.'}
+2024-06-05 01:22:53,706 - INFO - Transcript: {'text': ' Hi, I would like to dispute a charge made on my account.'}
+2024-06-05 01:23:08,105 - INFO - Transcript: {'text': " I haven't received my bill for the month of April."}
+2024-06-05 01:23:28,201 - INFO - Transcript: {'text': ' There is something wrong with my invoice statement.'}
+2024-06-05 01:23:45,423 - INFO - Transcript: {'text': ' How much do I have to pay monthly for my plan? I forgot.'}
+2024-06-05 01:23:59,139 - INFO - Transcript: {'text': ' I would like to pay monthly instead of yearly. Can you do that?'}
+2024-06-05 01:24:12,987 - INFO - Transcript: {'text': " I'm dissatisfied with the technician who helped me yesterday."}
+2024-06-05 01:24:30,484 - INFO - Transcript: {'text': " I'm unhappy with your service."}
+2024-06-05 01:24:48,919 - INFO - Transcript: {'text': ' I actually have a problem with the way you handled my request.'}
+2024-06-05 01:25:05,374 - INFO - Transcript: {'text': ' This is unacceptable.'}
+2024-06-05 01:25:22,252 - INFO - Transcript: {'text': ' I would like to speak with your supervisor.'}
+2024-06-05 01:25:37,183 - INFO - Transcript: {'text': ' Fuck you!'}
+2024-06-05 01:25:54,619 - INFO - Transcript: {'text': ' I hate you for treating me like shit!'}
+2024-06-05 01:26:12,266 - INFO - Transcript: {'text': " I'm interested in getting a phone plan."}
+2024-06-05 01:26:32,195 - INFO - Transcript: {'text': " I'd like to buy a new iPhone."}
+2024-06-05 01:26:46,643 - INFO - Transcript: {'text': ' What are my options for Samsung Galaxy phone accessories?'}
+2024-06-05 01:27:03,504 - INFO - Transcript: {'text': ' Do you offer a discount for students?'}
+2024-06-05 01:27:19,020 - INFO - Transcript: {'text': ' How much does your para-bank cost?'}
+2024-06-05 01:27:32,147 - INFO - Transcript: {'text': " My iPhone isn't working properly."}
+2024-06-05 01:27:46,440 - INFO - Transcript: {'text': " I'm experiencing an issue with my mobile data."}
+2024-06-05 01:28:01,955 - INFO - Transcript: {'text': " I'm having trouble with sending messages to my friends."}
+2024-06-05 01:28:16,605 - INFO - Transcript: {'text': " I can't receive calls."}
+2024-06-05 01:28:36,385 - INFO - Transcript: {'text': " There's an error message saying, fail to connect when I played mobile latency."}
+2024-06-05 02:29:56,458 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-05 02:30:04,513 - INFO - Transcript: {'text': ' Kids are talking by the door!'}
+2024-06-05 02:30:16,126 - INFO - Transcript: {'text': ' I hate you.'}
+2024-06-05 02:30:25,515 - INFO - Transcript: {'text': ' Who can I talk to about my service disruptions?'}
+2024-06-05 02:30:27,722 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-06-05 02:33:24,860 - INFO - Transcript: {'text': ' I hate you.'}
