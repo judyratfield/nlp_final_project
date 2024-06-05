@@ -15,16 +15,16 @@ Our project addresses this issue by integrating an analysis of waveforms, freque
 
 ## This repository consists of the following notebooks:
 
-1) Text Semantic Analysis - processes text and performs NLP semantic analysis techniques. This notebook should output semantic analysis ratings for the given dataset. 
+1) Text Semantic Analysis - This notebook deals with the text context analysis part of the proposed solution. 
 
 2) Audio Signals Analysis - processes audio signals that accompanied the text of the dataset and performs audio signals analysis techniques. This notebook should output audio signals readings for the dataset. 
 
-3) Age_Gender_Classifier - classifies which agent should be assigned to caller based on age and Gender
+3) Accent_Classifier - classifies which agent should be assigned to caller based on accent detected from analysing audio signals
 
-4) Agent_Audio_Signal_Classifier - classifies which agent should be assigned to caller based on audio signal
+4) Age_Gender_Classifier - classifies which agent should be assigned to caller based on age and Gender
 
-5) Classify - combines solutions from 1-4 to classify sentiment of customer and to which agent should the customer be assigned to
+5) Neural Network - Contains the Dataset Preparation, Design, Training & Evaluation of the proposed Neural Network model that analyzes both text context and audio signals 
 
-6) Neural Network - Contains the Dataset Preparation, Design, Training & Evaluation of the proposed Neural Network model that analyzes both text context and audio signals 
+6) Classify - combines solutions from 1-5 to classify sentiment of customer and to which agent should the customer be assigned to
 
 7) Evaluation - Notebook that contains evaluations done on new unseen recordings, including Ablation study
