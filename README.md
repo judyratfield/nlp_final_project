@@ -2,7 +2,7 @@
 
 # Integrating Audio Analysis with NLP for Enhanced Sentiment and Intent Recognition in Customer Interactions
 
-__Alfafara, Rodulfo II Dela Paz__ ()
+__Alfafara, Rodulfo II Dela Paz__ (47747420)
 __Guzman, Jelene Delos Santos__ (47499095)
 
 ## Statement of the Problem
