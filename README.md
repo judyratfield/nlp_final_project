@@ -28,3 +28,5 @@ Our project addresses this issue by integrating an analysis of waveforms, freque
 6) Classify - combines solutions from 1-5 to classify sentiment of customer and to which agent should the customer be assigned to
 
 7) Evaluation - Notebook that contains evaluations done on new unseen recordings, including Ablation study
+
+*PLEASE NOTE: Some models created are too large to be uploaded here in the Github repo. You may have to run the notebooks to create them or be able to download them. Should you encounter any issues on running the notebooks or accessing any models, feel free to reach out to us.
