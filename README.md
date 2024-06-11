@@ -29,4 +29,4 @@ Our project addresses this issue by integrating an analysis of waveforms, freque
 
 7) Evaluation - Notebook that contains evaluations done on new unseen recordings, including Ablation study
 
-*PLEASE NOTE: Some models created are too large to be uploaded here in the Github repo. You may have to run the notebooks to create them or be able to download them. Should you encounter any issues on running the notebooks or accessing any models, feel free to reach out to us.
+*PLEASE NOTE: Some models created are too large to be uploaded here in the Github repo. You may have to run the notebooks to create them or be able to download them. Alternatively, you can access this Google Drive link for the artifacts used not present in this repository: https://drive.google.com/drive/folders/19mJ28rz_tWhTkXX5MLXzmD6Jhzm1s45o?usp=sharing Should you encounter any issues on running the notebooks or accessing any models, feel free to reach out to us.
